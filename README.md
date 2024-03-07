@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 <a href="https://handr95.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/tistory-000000?style=plastic&logo=tistory&logoColor=white"/>
 </a>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handr95&layout=compact)

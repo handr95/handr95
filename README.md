@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://handr95.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/tistory-000000?style=plastic&logo=tistory&logoColor=white"/>
+</a>

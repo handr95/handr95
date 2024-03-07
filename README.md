@@ -19,5 +19,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/tistory-000000?style=plastic&logo=tistory&logoColor=white"/>
 </a>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=handr95&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handr95&layout=compact)
